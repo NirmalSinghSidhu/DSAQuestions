@@ -1,2 +1,4 @@
-package nirmal.strings;public class KMPAlgorithm {
+package nirmal.strings;
+
+public class KMPAlgorithm {
 }

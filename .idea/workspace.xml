@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15165a9b-d3f8-46d3-9d95-5b298e7fa3f5" name="Changes" comment="" />
+    <list default="true" id="15165a9b-d3f8-46d3-9d95-5b298e7fa3f5" name="Changes" comment="Searching and Sorting">
+      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/KthElementOFSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/MissingNumberInAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/PivotElementInRotatedSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/SmallestNumberWithTrailingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/SortBigArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/AllSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/AllSubsequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/BalancedParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/BracketReversals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/BracketReversals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/CheckPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/CheckWhetherStringRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/CheckWhetherStringRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/CountAndSay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/DuplicateCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/DuplicateCharacterInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/KMPAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/KMPAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/LongestRepeatingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/LongestRepeatingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/MobileKeypadSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/MobileKeypadSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/PalindromicSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/PalindromicSubsequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/ReverseCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/ReverseCharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/ReverseTheString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/RobinKarpAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/RobinKarpAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/RomanToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/RomanToDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/SplitBStringIntoEqual1s0s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/SplitBStringIntoEqual1s0s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/StringCountIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/StringCountIn2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/ValidShuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/ValidShuffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/WordSearchInGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/WordSearchInGrid.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SCmDEpGKV0jVBxT3I8JSkKqhsD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +56,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.InplaceMergeSort">
+    <configuration name="InplaceMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.InplaceMergeSort" />
+      <module name="DSAQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nirmal.searchingSorting.KthElementOFSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.KthElementOFSortedArrays" />
+      <module name="DSAQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nirmal.searchingSorting.MissingNumberInAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.MissingNumberInAP" />
+      <module name="DSAQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nirmal.searchingSorting.PivotElementInRotatedSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.PivotElementInRotatedSorted" />
+      <module name="DSAQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nirmal.searchingSorting.SortBigArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.SortBigArray" />
+      <module name="DSAQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InplaceMergeSort" />
+        <item itemvalue="Application.nirmal.searchingSorting.KthElementOFSortedArrays" />
+        <item itemvalue="Application.nirmal.searchingSorting.PivotElementInRotatedSorted" />
+        <item itemvalue="Application.nirmal.searchingSorting.SortBigArray" />
+        <item itemvalue="Application.nirmal.searchingSorting.MissingNumberInAP" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +148,21 @@
       <option name="presentableId" value="Default" />
       <updated>1688658817244</updated>
     </task>
+    <task id="LOCAL-00001" summary="Searching and Sorting">
+      <created>1688838858962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688838858962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Searching and Sorting">
+      <created>1688838923266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688838923266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +175,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Searching and Sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Searching and Sorting" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nirmal/searchingSorting/SortBigArray.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
