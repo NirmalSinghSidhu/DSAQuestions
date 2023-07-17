@@ -2,35 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15165a9b-d3f8-46d3-9d95-5b298e7fa3f5" name="Changes" comment="Searching and Sorting">
-      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/KthElementOFSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/MissingNumberInAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/PivotElementInRotatedSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/SmallestNumberWithTrailingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nirmal/searchingSorting/SortBigArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binarySearchTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/BinaryTreeBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/ConstructBTFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/ConvertBTToSUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/ConvertBTtoDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/DiagonalTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/Diameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/HeightOFBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/LeftViewOfBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/MirrorOFBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/PostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/ReverseLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/RightViewOfBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/binaryTree/ZigZagTravrsal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/Add1ToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/DeleteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/DeleteNthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/DetectALoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/FindMiddleOfLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/IntersectionOfTwoLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/MoveTheLasttoFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/NodeD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/NodeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/PairSumInDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/ReverseDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/ReverseTheLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/SplitCircularLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/StartingPointOfLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/isCircular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nirmal/linkedlists/reverseInGroups.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/AllSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/AllSubsequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/BalancedParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/BracketReversals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/BracketReversals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/CheckPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/CheckWhetherStringRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/CheckWhetherStringRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/CountAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/DuplicateCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/DuplicateCharacterInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/KMPAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/KMPAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/LongestPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/LongestRepeatingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/LongestRepeatingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/MobileKeypadSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/MobileKeypadSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/PalindromicSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/PalindromicSubsequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/ReverseCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/ReverseCharArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/ReverseTheString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/RobinKarpAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/RobinKarpAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/RomanToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/RomanToDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/SplitBStringIntoEqual1s0s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/SplitBStringIntoEqual1s0s.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/StringCountIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/StringCountIn2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/ValidShuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/ValidShuffle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nirmal/strings/WordSearchInGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nirmal/strings/WordSearchInGrid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +79,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InplaceMergeSort">
-    <configuration name="InplaceMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.InplaceMergeSort" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nirmal.linkedlists" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearchTree">
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.binarySearchTree.BinarySearchTree" />
       <module name="DSAQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="PATTERN" value="nirmal.binarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nirmal.searchingSorting.KthElementOFSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.KthElementOFSortedArrays" />
+    <configuration name="ConstructBTFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.binaryTree.ConstructBTFromString" />
       <module name="DSAQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="PATTERN" value="nirmal.binaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nirmal.searchingSorting.MissingNumberInAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.MissingNumberInAP" />
+    <configuration name="ConvertBTToSUM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.binaryTree.ConvertBTToSUM" />
       <module name="DSAQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="PATTERN" value="nirmal.binaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nirmal.searchingSorting.PivotElementInRotatedSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.PivotElementInRotatedSorted" />
+    <configuration name="ConvertBTtoDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.binaryTree.ConvertBTtoDLL" />
       <module name="DSAQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="PATTERN" value="nirmal.binaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nirmal.searchingSorting.SortBigArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nirmal.searchingSorting.SortBigArray" />
+    <configuration name="DiagonalTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nirmal.binaryTree.DiagonalTraversal" />
       <module name="DSAQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nirmal.searchingSorting.*" />
+          <option name="PATTERN" value="nirmal.binaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InplaceMergeSort" />
-        <item itemvalue="Application.nirmal.searchingSorting.KthElementOFSortedArrays" />
-        <item itemvalue="Application.nirmal.searchingSorting.PivotElementInRotatedSorted" />
-        <item itemvalue="Application.nirmal.searchingSorting.SortBigArray" />
-        <item itemvalue="Application.nirmal.searchingSorting.MissingNumberInAP" />
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.ConvertBTToSUM" />
+        <item itemvalue="Application.ConvertBTtoDLL" />
+        <item itemvalue="Application.ConstructBTFromString" />
+        <item itemvalue="Application.DiagonalTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688838923266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Searching and Sorting">
+      <created>1688992273926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688992273927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Searching and Sorting">
+      <created>1688992327255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688992327255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +205,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -187,6 +228,20 @@
           <url>file://$PROJECT_DIR$/src/nirmal/searchingSorting/SortBigArray.java</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nirmal/linkedlists/DeleteLoop.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nirmal/linkedlists/ReverseDLL.java</url>
+          <line>35</line>
+          <properties class="nirmal.linkedlists.ReverseDLL" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
