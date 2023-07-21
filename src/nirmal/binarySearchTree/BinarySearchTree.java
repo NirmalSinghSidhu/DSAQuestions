@@ -3,7 +3,7 @@ package nirmal.binarySearchTree;
 public class BinarySearchTree {
 
     public static TreeNode createSampleBST(){
-       int arr[] = {60,70,80,40,50,90};
+       int arr[] = {60,70,20,80,40,50,30,90};
       TreeNode root = new TreeNode(10);
       for(int elm:arr){
           insert(root,elm);
@@ -20,14 +20,14 @@ public class BinarySearchTree {
         TreeNode parent = null;
         while(curr!= null){
             parent = curr;
-            if(curr.element < data){
+            if(curr.val < data){
                 curr = curr.right;
             }else{
                 curr = curr.left;
             }
         }
 
-        if(parent.element < data){
+        if(parent.val < data){
             parent.right = newNode;
         }else{
             parent.left = newNode;
@@ -40,7 +40,7 @@ public class BinarySearchTree {
             return new TreeNode(data);
         }
 
-        if(root.element < data){
+        if(root.val < data){
           root.right = insert2(root.right,data);
         }else{
            root.left = insert2(root.left, data);
@@ -53,9 +53,9 @@ public class BinarySearchTree {
             return root;
         }
 
-        if(root.element > key){
+        if(root.val > key){
             root.left = delete(root.left,key);
-        } else if (root.element < key) {
+        } else if (root.val < key) {
             root.right = delete(root.right,key);
         }
         else {
@@ -64,17 +64,17 @@ public class BinarySearchTree {
             } else if (root.right == null) {
                 return root.left;
             }else{
-                root.element = minValue(root.right);
-                root.right = delete(root.right, root.element);
+                root.val = minValue(root.right);
+                root.right = delete(root.right, root.val);
             }
         }
         return root;
     }
 
     public static int minValue(TreeNode root){
-        int minValue = root.element;
+        int minValue = root.val;
         while(root != null){
-           minValue  = root.element;
+           minValue  = root.val;
            root = root.left;
         }
         return minValue;
@@ -89,7 +89,7 @@ public class BinarySearchTree {
             return;
         }
         print(root.left);
-        System.out.print(root.element +" ");
+        System.out.print(root.val +" ");
         print(root.right);
     }
 

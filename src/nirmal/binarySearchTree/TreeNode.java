@@ -1,11 +1,13 @@
 package nirmal.binarySearchTree;
 
 public class TreeNode {
-    int element;
+    int val;
     TreeNode left;
     TreeNode right;
 
-    public TreeNode(int element) {
-        this.element = element;
+    TreeNode next; // inorder Successor
+
+    public TreeNode(int val) {
+        this.val = val;
     }
 }
